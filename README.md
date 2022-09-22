@@ -1,4 +1,4 @@
-<img align="right" alt="Fabi-pic" height="225" style="border-radius:70px;" src="https://images2.imgbox.com/8e/7b/16tbIKkn_o.png" alt="image host">
+<img align="right" alt="Fabi-pic" height="200" style="border-radius:70px;" src="https://images2.imgbox.com/8e/7b/16tbIKkn_o.png" alt="image host">
 <h1> Oi, eu sou a Fabi 🦸 </h1>
 
 - 🔭 Estou buscando novas oportunidades e desafios;
