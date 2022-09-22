@@ -1,9 +1,12 @@
-### Oi, eu sou a Fabi 🦸🏻‍♀️
+<img align="right" alt="Fabi-pic" height="225" style="border-radius:70px;" src="https://images2.imgbox.com/8e/7b/16tbIKkn_o.png" alt="image host">
+<h1> Oi, eu sou a Fabi 🦸 </h1>
 
-- 🔭 Estou buscando novas oportunidades
-- 🌱 Estudando Front-end
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Sou apaixonada por Nascar! (e sim, é melhor que F1 rs) 🏎
+- 🔭 Estou buscando novas oportunidades e desafios;
+- 🌍 Araraquara - SP;
+- 🌱 Estudando Front-end na escola tecnológica Alura;
+- 😄 Pronouns: Ela/Dela;
+- ⚡ Fun fact: Sou apaixonada por Nascar! (e sim, é melhor que F1 rs) ✌🏻
+
 
 <div align="center">
   <a href="https://github.com/faabisn">
@@ -14,7 +17,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 </div>
   
   ##
