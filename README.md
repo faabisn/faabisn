@@ -5,7 +5,7 @@
 - 🌍 Araraquara - SP;
 - 🌱 Estudando Front-end na escola tecnológica Alura;
 - 😄 Pronouns: Ela/Dela;
-- ⚡ Fun fact: Sou apaixonada por Nascar! (e sim, é melhor que F1 rs) ✌🏻
+- ⚡ Fun fact: Sou apaixonada por Nascar ✌🏻
 
 
 <div align="center">
